@@ -13,7 +13,7 @@ stampa un messaggio appropriato sull’esito del controllo.
 chiedere all'utente la sua email tramite prompt
 
 <!-- logica -->
-- controllare la presenza della mail inserita, se è presente nella liste oppure no. Quindi:
+- controllare la presenza della mail inserita con ciclio FOR, se è presente nella liste oppure no. Quindi:
 
 SE è presente stampare il messaggio di accesso consentito
 
