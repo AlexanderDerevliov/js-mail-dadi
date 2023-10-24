@@ -6,7 +6,8 @@
 
 
 .wrapper {
-    width: 80%;
+    width: 100%;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,6 +33,7 @@
     background-color: lightgray;
     border-radius: 10px;
     text-align: center;
+    padding: 2rem;
 
 }
 
